@@ -9,4 +9,4 @@ This repository is created to practice Git and GitHub workflows.
 - Commit
 - Push
 - Pull Request
-- Merge
+- MergeMain branch update
